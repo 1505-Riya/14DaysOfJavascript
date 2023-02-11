@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://twitter.com/HarshThakkar971">
-    <img alt="Banner" height="100%" width="100%"  src="https://www.linkpicture.com/q/Banner_13.png">
+  <a href="https://twitter.com/iriya1505">
+    <img alt="Banner" height="100%" width="100%"  src="https://pbs.twimg.com/profile_banners/1605914956805079040/1672563218/1500x500">
   </a>
 </p>
 
@@ -16,8 +16,8 @@
 
 | Status | Project Title | Completion Date | Source Code | Project Link |
 |:-: | :-:           |:-:              | :-:         | :-:          |
-| ❌ | Digital Clock             | 10-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Digital%20Clock) | Coming Soon |
-| ❌ | Analog Clock              | 11-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Analog%20Clock) | Coming Soon    |
+| ✅ | Digital Clock             | 10-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Digital%20Clock) | Coming Soon |
+| ✅ | Analog Clock              | 11-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Analog%20Clock) | Coming Soon    |
 | ❌ | Month Calendar            | 12-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Month%20Calendar) | Coming Soon    |
 | ❌ | Random Password Generator | 13-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Random%20Password%20Generator) | Coming Soon |
 | ❌ | Heart Trail Animation     | 14-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Heart%20Trail%20Animation) | Coming Soon    |
