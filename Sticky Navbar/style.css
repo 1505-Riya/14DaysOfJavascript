@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+}
+
+.top-container {
+    background-image: url(https://media.istockphoto.com/id/1210292829/vector/japanese-paper-pink.jpg?s=612x612&w=0&k=20&c=i6ip0nqCcus6xFpPz0iT1wRzADc0hgxw2jGYi6uZXOA=);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.top-container h1 {
+    color: white;
+    size: 50px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    background-color: gray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 2px;
+}
+
+.text {
+    margin: 50px 5%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: palevioletred;
+}
+
+.navbar {
+    background-color: gray;
+    display: flex;
+    margin-top: 0;
+    position: fixed;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 5px 5px 10px pink;
+    transition: background-color 0.5s;
+}
+
+.navbar ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    color: white;
+    margin: 0 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.navbar ul li a:hover {
+    color: palevioletred;
+}
+
+.navbar.active ul li a:hover {
+    color: slategray;
+}
+
+.navbar.active {
+    background-color: palevioletred;
+}
+
+.navbar.active ul li a {
+    color: white;
+}
