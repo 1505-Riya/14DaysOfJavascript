@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background-color:black;
+}
+.slider-container{
+    width: 500px;
+    height: 300px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 15px;
+    box-shadow: 0 5px 20px white;
+}
+.image-container{
+    display: flex;
+    transition: transform 0.4s ease-in-out;
+    /* using js - transform: translateX(-500px); */
+
+}
+.btn{
+    position: absolute;
+    top:50%;
+    transform: translateY(-50%);
+    color: white;
+    font-size: 25px;
+    opacity: .5;
+    cursor: pointer;
+}
+.btn.prev{
+    left: 10px;
+}
+.btn.next{
+    right: 10px;
+}
+.btn:hover{
+    opacity: 1;
+}
