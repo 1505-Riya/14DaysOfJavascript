@@ -25,7 +25,7 @@
 | ✅ | Sticky Navbar             | 16-Feb-2023 | [Click Here](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Sticky%20Navbar) | [Sticky-Navbar](https://14daysofjavascript-stickynavbar.netlify.app/)    |
 | ✅ | Dark Mode Toggle          | 17-Feb-2023 | [Click Here](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Dark%20Mode%20Toggle) | [Dark-Mode](https://14daysofjavascript-darkmodetoggle.netlify.app/)    |
 | ✅ | Auto Text Effect Animation| 18-Feb-2023 | [Click Here](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Auto%20Text%20Effect%20Animation) |[Auto-Text-Effect-Animation](https://14daysofjavascript-autotextanimation.netlify.app/)|
-| ❌ | Image Slider              | 19-Feb-2023 | [Click Here]() | Coming Soon    |
+| ✅ | Image Slider              | 19-Feb-2023 | [Click Here](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Image%20Slider) |[Image-Slider](https://14daysofjavascript-imageslider.netlify.app/)   |
 | ❌ | Step Progress Bar         | 20-Feb-2023 | [Click Here]() | Coming Soon    |
 | ❌ | English Dictionary        | 21-Feb-2023 | [Click Here]() | Coming Soon    |
 | ❌ | Random Quote Generator    | 22-Feb-2023 | [Click Here]() | Coming Soon    |
