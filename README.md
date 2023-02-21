@@ -27,7 +27,7 @@
 | ✅ | Auto Text Effect Animation| 18-Feb-2023 | [Click Here](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Auto%20Text%20Effect%20Animation) |[Auto-Text-Effect-Animation](https://14daysofjavascript-autotextanimation.netlify.app/)|
 | ✅ | Image Slider              | 19-Feb-2023 | [Click Here](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Image%20Slider) |[Image-Slider](https://14daysofjavascript-imageslider.netlify.app/)   |
 | ✅ | Step Progress Bar         | 20-Feb-2023 | [Click Here](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Step%20Progress%20Bar) | [Step-Progress-Bar](https://14daysofjavascript-progressbar.netlify.app/)   |
-| ❌ | English Dictionary        | 21-Feb-2023 | [Click Here]() |    |
+| ✅ | English Dictionary        | 21-Feb-2023 | [Click Here](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/English%20Dictionary) |  [English-Dictionary](https://14daysofjavascript-dictionary.netlify.app/)  |
 | ❌ | Random Quote Generator    | 22-Feb-2023 | [Click Here]() | Coming Soon    |
 | ❌ | Note App                  | 23-Feb-2023 | [Click Here]() | Coming Soon    |
 
