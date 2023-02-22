@@ -28,6 +28,6 @@
 | ✅ | Image Slider              | 19-Feb-2023 | [Click Here](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Image%20Slider) |[Image-Slider](https://14daysofjavascript-imageslider.netlify.app/)   |
 | ✅ | Step Progress Bar         | 20-Feb-2023 | [Click Here](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Step%20Progress%20Bar) | [Step-Progress-Bar](https://14daysofjavascript-progressbar.netlify.app/)   |
 | ✅ | English Dictionary        | 21-Feb-2023 | [Click Here](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/English%20Dictionary) |  [English-Dictionary](https://14daysofjavascript-dictionary.netlify.app/)  |
-| ❌ | Random Quote Generator    | 22-Feb-2023 | [Click Here]() | Coming Soon    |
+| ✅ | Random Quote Generator    | 22-Feb-2023 | [Click Here](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Random%20Quote%20Generator) | [Random-Quote-Generator](https://14daysofjavascript-randomquote.netlify.app/)    |
 | ❌ | Note App                  | 23-Feb-2023 | [Click Here]() | Coming Soon    |
 
