@@ -19,15 +19,15 @@
 | ✅ | Digital Clock             | 10-Feb-2023 | [Click Here](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Digital%20Clock) | [Digital-Clock](https://14daysofjavascript-digitalclock.netlify.app/) |
 | ✅ | Analog Clock              | 11-Feb-2023 | [Click Here](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Analog%20Clock) |  [Analog-Clock](https://14daysofjavascript-analogclock.netlify.app/)  |
 | ✅ | Month Calendar            | 12-Feb-2023 | [Click Here](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Month%20Calendar) | [Month-Calender](https://14daysofjavascrip-montcalender.netlify.app/)   |
-| ✅ | Random Password Generator | 13-Feb-2023 | [Click Here](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Random%20Password%20Generator) | [Random-pwd-Generator](https://14daysofjavascript-randompwdgenerator.netlify.app/) |
-| ✅ | Heart Trail Animation     | 14-Feb-2023 | [Click Here](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Heart%20Trail%20Animation) | [Heart-Trail-Animation](https://14daysofjavascript-hearttrail.netlify.app/)    |
-| ✅ | Animated Search Bar       | 15-Feb-2023 | [Click Here](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Animated%20Search%20Bar) | [Animated-Search-Bar](https://14daysofjavascript-animatedsearchbar.netlify.app/)    |
-| ✅ | Sticky Navbar             | 16-Feb-2023 | [Click Here](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Sticky%20Navbar) | [Sticky-Navbar](https://14daysofjavascript-stickynavbar.netlify.app/)    |
-| ✅ | Dark Mode Toggle          | 17-Feb-2023 | [Click Here](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Dark%20Mode%20Toggle) | [Dark-Mode](https://14daysofjavascript-darkmodetoggle.netlify.app/)    |
-| ✅ | Auto Text Effect Animation| 18-Feb-2023 | [Click Here](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Auto%20Text%20Effect%20Animation) |[Auto-Text-Effect-Animation](https://14daysofjavascript-autotextanimation.netlify.app/)|
-| ✅ | Image Slider              | 19-Feb-2023 | [Click Here](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Image%20Slider) |[Image-Slider](https://14daysofjavascript-imageslider.netlify.app/)   |
-| ✅ | Step Progress Bar         | 20-Feb-2023 | [Click Here](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Step%20Progress%20Bar) | [Step-Progress-Bar](https://14daysofjavascript-progressbar.netlify.app/)   |
-| ✅ | English Dictionary        | 21-Feb-2023 | [Click Here](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/English%20Dictionary) |  [English-Dictionary](https://14daysofjavascript-dictionary.netlify.app/)  |
-| ✅ | Random Quote Generator    | 22-Feb-2023 | [Click Here](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Random%20Quote%20Generator) | [Random-Quote-Generator](https://14daysofjavascript-randomquote.netlify.app/)    |
-| ❌ | Note App                  | 23-Feb-2023 | [Click Here]() | Coming Soon    |
+| ✅ | Random Password Generator | 13-Feb-2023 | [Code](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Random%20Password%20Generator) | [Random-pwd-Generator](https://14daysofjavascript-randompwdgenerator.netlify.app/) |
+| ✅ | Heart Trail Animation     | 14-Feb-2023 | [Code](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Heart%20Trail%20Animation) | [Heart-Trail-Animation](https://14daysofjavascript-hearttrail.netlify.app/)    |
+| ✅ | Animated Search Bar       | 15-Feb-2023 | [Code](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Animated%20Search%20Bar) | [Animated-Search-Bar](https://14daysofjavascript-animatedsearchbar.netlify.app/)    |
+| ✅ | Sticky Navbar             | 16-Feb-2023 | [Code](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Sticky%20Navbar) | [Sticky-Navbar](https://14daysofjavascript-stickynavbar.netlify.app/)    |
+| ✅ | Dark Mode Toggle          | 17-Feb-2023 | [Code](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Dark%20Mode%20Toggle) | [Dark-Mode](https://14daysofjavascript-darkmodetoggle.netlify.app/)    |
+| ✅ | Auto Text Effect Animation| 18-Feb-2023 | [Code](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Auto%20Text%20Effect%20Animation) |[Auto-Text-Effect-Animation](https://14daysofjavascript-autotextanimation.netlify.app/)|
+| ✅ | Image Slider              | 19-Feb-2023 | [Code](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Image%20Slider) |[Image-Slider](https://14daysofjavascript-imageslider.netlify.app/)   |
+| ✅ | Step Progress Bar         | 20-Feb-2023 | [Code](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Step%20Progress%20Bar) | [Step-Progress-Bar](https://14daysofjavascript-progressbar.netlify.app/)   |
+| ✅ | English Dictionary        | 21-Feb-2023 | [Code](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/English%20Dictionary) |  [English-Dictionary](https://14daysofjavascript-dictionary.netlify.app/)  |
+| ✅ | Random Quote Generator    | 22-Feb-2023 | [Code](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Random%20Quote%20Generator) | [Random-Quote-Generator](https://14daysofjavascript-randomquote.netlify.app/)    |
+| ✅ | Note App                  | 23-Feb-2023 | [Code](https://github.com/1505-Riya/14DaysOfJavascript/tree/main/Note%20App) | [Note-App](https://14daysofjavascript-noteapp.netlify.app/)    |
 
